@@ -42,7 +42,7 @@ FOR researcher IN ‘academics’
 
 ### For reproducibility:
 1. To run from terminal use command: ```docker run -e ARANGO_ROOT_PASSWORD=test123 -p 8529:8529 -d arangodb``` and navigate to ```http://127.0.0.1:8529/```. Currently, there is no way to run this strictly in terminal.
-2. Here
+2. Here (test)
 
 
 <!-- Credits -->
